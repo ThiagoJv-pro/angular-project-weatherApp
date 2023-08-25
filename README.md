@@ -1,6 +1,6 @@
 Angular Weather Forecast App
 
-Descrição:
+
 O "Angular Weather Forecast App" é uma aplicação web desenvolvida utilizando o framework Angular e integrando a API da WeatherAPI. Com este aplicativo, os usuários podem obter informações detalhadas sobre as condições climáticas em diferentes locais em todo o mundo.
 
 
