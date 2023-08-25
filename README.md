@@ -1,27 +1,22 @@
-# WeatherApp
+Angular Weather Forecast App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+Descrição:
+O "Angular Weather Forecast App" é uma aplicação web desenvolvida utilizando o framework Angular e integrando a API da WeatherAPI. Com este aplicativo, os usuários podem obter informações detalhadas sobre as condições climáticas em diferentes locais em todo o mundo.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![WeatherApp](https://github.com/ThiagoJv-pro/angular-project-weatherApp/assets/54116959/e34d2491-1669-4cef-9284-11ba79cc340b)
 
-## Code scaffolding
+Recursos:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Pesquisa por Localização: Os usuários podem inserir o nome de uma cidade ou coordenadas geográficas para obter informações de previsão do tempo específicas.
+Previsão Detalhada: O aplicativo exibe dados detalhados, incluindo temperatura atual, máxima e mínima, condições climáticas, velocidade do vento e umidade.
+Previsão Estendida: Além da previsão atual, os usuários também podem acessar previsões para os próximos dias, permitindo que se planejem com antecedência.
+Ícones Ilustrativos: Ícones ilustrativos são exibidos para representar as diferentes condições climáticas, tornando mais fácil para os usuários identificarem rapidamente o tempo.
+Histórico de Pesquisa: A aplicação pode armazenar o histórico de pesquisa do usuário, permitindo que eles acessem facilmente locais frequentemente verificados.
+Responsivo e Atraente: O design responsivo garante uma experiência de usuário consistente em diferentes dispositivos, e a interface intuitiva torna a busca e obtenção de informações climáticas uma tarefa simples.
+Tecnologias Utilizadas:
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Angular: O framework Angular é a base da aplicação, oferecendo componentes reutilizáveis, roteamento e gerenciamento de estado.
+WeatherAPI: A API da WeatherAPI é usada para obter os dados de previsão do tempo, como temperatura, condições climáticas e outros detalhes.
+HTML, CSS e TypeScript: As linguagens padrão da web são usadas para estruturar, estilizar e programar a aplicação.
+Responsive Design: A aplicação é desenvolvida com um design responsivo para garantir uma experiência suave em dispositivos móveis, tablets e desktops.
