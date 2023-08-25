@@ -14,6 +14,7 @@ Previsão Estendida: Além da previsão atual, os usuários também podem acessa
 Ícones Ilustrativos: Ícones ilustrativos são exibidos para representar as diferentes condições climáticas, tornando mais fácil para os usuários identificarem rapidamente o tempo.
 Histórico de Pesquisa: A aplicação pode armazenar o histórico de pesquisa do usuário, permitindo que eles acessem facilmente locais frequentemente verificados.
 Responsivo e Atraente: O design responsivo garante uma experiência de usuário consistente em diferentes dispositivos, e a interface intuitiva torna a busca e obtenção de informações climáticas uma tarefa simples.
+
 Tecnologias Utilizadas:
 
 Angular: O framework Angular é a base da aplicação, oferecendo componentes reutilizáveis, roteamento e gerenciamento de estado.
