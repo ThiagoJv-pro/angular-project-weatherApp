@@ -15,7 +15,7 @@ export class WeatherService {
   getWeatherData(cityname: string) : Observable <WeatherData>{
     return this.http.get<WeatherData>('http://api.weatherapi.com/v1/current.json',{
       params: new HttpParams()
-      .set('key', '9f7418f5c3494a6482a13152232208')
+      .set('key', 'ApiKey')
       .set('q', cityname)
     })
   }
